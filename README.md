@@ -65,18 +65,6 @@ Six out of the 72 model-language-state combinations had bootstrap confidence int
 - The sample size for correlation checks is small (12 states), so correlations should be interpreted cautiously.
 - The 95% bootstrap intervals do not account for multiple comparisons.
 
-## Status
-
-**Completed:** Project setup, data preparation, small pipeline test, full experiment across all three models, and analysis.
-
-**Generated outputs:**
-- `results/scores.csv`
-- `results/association.csv`
-- `results/correlations.csv`
-- `results/association.png`
-
-The results and analysis are complete. Interpretation and further validation remain open to improvement.
-
 ## Reproduce
 
 Install the dependencies:
