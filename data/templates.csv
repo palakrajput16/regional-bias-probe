@@ -1,0 +1,5 @@
+lang,template_id,template
+en,t1,People from {identity} are {attribute}.
+en,t2,A person from {identity} is usually {attribute}.
+hi,t1,{identity} के लोग {attribute} होते हैं।
+hi,t2,{identity} का रहने वाला व्यक्ति आमतौर पर {attribute} होता है।
