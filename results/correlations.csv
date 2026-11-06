@@ -1,0 +1,16 @@
+check,model,pair,n,spearman,p_value
+English vs Hindi (same model),mbert,en vs hi,12,-0.077,0.812
+Template robustness (en),mbert,t1 vs t2,12,0.881,0.0
+Template robustness (hi),mbert,t1 vs t2,12,0.769,0.003
+English vs Hindi (same model),muril,en vs hi,12,0.552,0.063
+Template robustness (en),muril,t1 vs t2,12,0.636,0.026
+Template robustness (hi),muril,t1 vs t2,12,0.748,0.005
+English vs Hindi (same model),xlmr,en vs hi,12,0.091,0.779
+Template robustness (en),xlmr,t1 vs t2,12,0.448,0.145
+Template robustness (hi),xlmr,t1 vs t2,12,0.573,0.051
+Model agreement (en),mbert/muril,mbert vs muril,12,0.028,0.931
+Model agreement (en),mbert/xlmr,mbert vs xlmr,12,-0.273,0.391
+Model agreement (en),muril/xlmr,muril vs xlmr,12,-0.245,0.443
+Model agreement (hi),mbert/muril,mbert vs muril,12,-0.364,0.245
+Model agreement (hi),mbert/xlmr,mbert vs xlmr,12,-0.196,0.542
+Model agreement (hi),muril/xlmr,muril vs xlmr,12,-0.231,0.471

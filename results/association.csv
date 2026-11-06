@@ -1,0 +1,73 @@
+model,lang,identity,neg_association,ci_low,ci_high
+mbert,en,Assam,-0.139,-0.39,0.109
+mbert,en,Bihar,-0.311,-0.626,-0.001
+mbert,en,Gujarat,0.055,-0.226,0.304
+mbert,en,Karnataka,0.161,-0.248,0.554
+mbert,en,Kerala,0.001,-0.328,0.341
+mbert,en,Maharashtra,0.143,-0.105,0.377
+mbert,en,Nagaland,0.093,-0.5,0.697
+mbert,en,Punjab,-0.158,-0.433,0.096
+mbert,en,Rajasthan,-0.032,-0.347,0.254
+mbert,en,Tamil Nadu,-0.054,-0.385,0.297
+mbert,en,Uttar Pradesh,-0.004,-0.562,0.577
+mbert,en,West Bengal,0.245,-0.018,0.551
+mbert,hi,Assam,-0.306,-0.996,0.342
+mbert,hi,Bihar,0.422,-0.005,0.868
+mbert,hi,Gujarat,0.512,0.176,0.828
+mbert,hi,Karnataka,-0.047,-0.405,0.287
+mbert,hi,Kerala,-0.221,-0.485,0.046
+mbert,hi,Maharashtra,-0.379,-0.838,0.092
+mbert,hi,Nagaland,0.07,-0.249,0.342
+mbert,hi,Punjab,0.161,-0.269,0.715
+mbert,hi,Rajasthan,-0.087,-0.645,0.494
+mbert,hi,Tamil Nadu,-0.268,-0.652,0.098
+mbert,hi,Uttar Pradesh,-0.013,-0.34,0.316
+mbert,hi,West Bengal,0.156,-0.35,0.604
+muril,en,Assam,-0.291,-0.685,0.084
+muril,en,Bihar,-0.057,-0.331,0.28
+muril,en,Gujarat,0.054,-0.232,0.354
+muril,en,Karnataka,-0.181,-0.696,0.253
+muril,en,Kerala,0.046,-0.293,0.383
+muril,en,Maharashtra,0.073,-0.232,0.37
+muril,en,Nagaland,-0.484,-1.018,0.022
+muril,en,Punjab,0.225,-0.188,0.643
+muril,en,Rajasthan,0.09,-0.277,0.457
+muril,en,Tamil Nadu,0.19,-0.351,0.725
+muril,en,Uttar Pradesh,0.024,-0.46,0.501
+muril,en,West Bengal,0.312,-0.318,0.946
+muril,hi,Assam,0.185,-0.219,0.565
+muril,hi,Bihar,-0.474,-0.981,0.026
+muril,hi,Gujarat,-0.273,-0.967,0.352
+muril,hi,Karnataka,-0.184,-0.803,0.395
+muril,hi,Kerala,-0.36,-1.006,0.239
+muril,hi,Maharashtra,0.205,-0.159,0.584
+muril,hi,Nagaland,-0.692,-1.378,-0.13
+muril,hi,Punjab,-0.082,-0.774,0.717
+muril,hi,Rajasthan,0.094,-0.485,0.654
+muril,hi,Tamil Nadu,0.284,-0.186,0.816
+muril,hi,Uttar Pradesh,0.294,-0.521,1.129
+muril,hi,West Bengal,1.003,-0.176,2.11
+xlmr,en,Assam,0.55,0.142,1.042
+xlmr,en,Bihar,0.169,-0.25,0.577
+xlmr,en,Gujarat,-0.227,-0.591,0.071
+xlmr,en,Karnataka,-0.098,-0.471,0.275
+xlmr,en,Kerala,-0.456,-0.842,-0.078
+xlmr,en,Maharashtra,0.337,-0.047,0.757
+xlmr,en,Nagaland,-0.022,-0.468,0.509
+xlmr,en,Punjab,-0.263,-0.736,0.176
+xlmr,en,Rajasthan,-0.014,-0.245,0.191
+xlmr,en,Tamil Nadu,0.089,-0.416,0.548
+xlmr,en,Uttar Pradesh,-0.014,-0.617,0.564
+xlmr,en,West Bengal,-0.052,-0.327,0.246
+xlmr,hi,Assam,0.188,-0.109,0.446
+xlmr,hi,Bihar,0.03,-0.154,0.211
+xlmr,hi,Gujarat,0.214,-0.018,0.491
+xlmr,hi,Karnataka,-0.018,-0.172,0.123
+xlmr,hi,Kerala,0.108,-0.128,0.372
+xlmr,hi,Maharashtra,0.071,-0.177,0.328
+xlmr,hi,Nagaland,-0.098,-0.428,0.217
+xlmr,hi,Punjab,-0.041,-0.211,0.127
+xlmr,hi,Rajasthan,-0.173,-0.519,0.134
+xlmr,hi,Tamil Nadu,0.138,-0.028,0.326
+xlmr,hi,Uttar Pradesh,-0.26,-0.476,-0.07
+xlmr,hi,West Bengal,-0.16,-0.487,0.093
